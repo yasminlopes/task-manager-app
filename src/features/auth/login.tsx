@@ -140,14 +140,6 @@ export function LoginPage() {
             </button>
           </div>
 
-          <div className="text-center pt-4 border-t border-gray-200">
-            <p className="text-sm text-gray-500">
-              💡 <strong>Credenciais de teste:</strong><br />
-              📧 yas@exemplo.com<br />
-              🔒 Senha@123
-            </p>
-          </div>
-
         </form>
       </div>
     </div>
